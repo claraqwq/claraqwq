@@ -5,7 +5,7 @@
 ## [Blog][1]
 ***
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=claraqwq&theme=material-palenight&show_icons=true&locale=cn) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claraqwq&theme=material-palenight&show_icons=true&locale=cn&layout=default)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claraqwq&theme=material-palenight&show_icons=true&locale=cn&layout=default)
 ***
 ## ❤️ Like
 - 🎮 Gaming!
