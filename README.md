@@ -13,6 +13,7 @@
 - 🎧 Music
 - 😺 Cat
 - 🛠️ Write bugs
+- 💤 Sleep
 
 [1]: https://blog.claraqwq.com "Clara的小窝"
 <!--
