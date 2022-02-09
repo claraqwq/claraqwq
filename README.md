@@ -1,18 +1,18 @@
 # "Hello World"
 
-#### A cute noob who can't learn anything.
-#### 一个啥都学不精通的萌新 Nay~
-[Blog][1]
+### A cute noob who can't learn anything.
+### 一个啥都学不精通的萌新 Nay~
+## [Blog][1]
 ***
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=claraqwq&theme=material-palenight&show_icons=true&locale=cn) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claraqwq&theme=material-palenight&show_icons=true&locale=cn&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 ***
 ## ❤️ Like
-- 🎮Gaming!
-- 👘ACG
-- 🎧Music
-- 😺Cat
-- 🛠️Write bugs
+- 🎮 Gaming!
+- 👘 ACG
+- 🎧 Music
+- 😺 Cat
+- 🛠️ Write bugs
 
 [1]: https://blog.claraqwq.com "Clara的小窝"
 <!--
