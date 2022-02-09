@@ -2,10 +2,10 @@
 
 ### A cute noob who can't learn anything.
 ### 一个啥都学不精通的萌新 Nay~
-## [Blog][1]
+### [Blog][1]
 ***
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=claraqwq&theme=material-palenight&show_icons=true&locale=cn) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claraqwq&theme=material-palenight&show_icons=true&locale=cn&layout=default)
+![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=claraqwq&bg_color=45,ecfdff,899ec7&title_color=6086af&text_color=6086af&show_icons=true&locale=cn) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claraqwq&bg_color=45,ecfdff,899ec7&title_color=6086af&text_color=6086af&show_icons=true&locale=cn&layout=default)
 ***
 ## ❤️ Like
 - 🎮 Gaming!
