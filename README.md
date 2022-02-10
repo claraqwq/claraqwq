@@ -2,6 +2,7 @@
 
 ### A cute noob who can't learn anything.
 ### 一个啥都学不精通的萌新 Nay~
+![nacho](images/myadestes_1_nacho_agadywmaatzvsfy.png)
 ### [Blog][1]
 ***
 
