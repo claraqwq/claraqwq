@@ -12,7 +12,7 @@
 <!--![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=claraqwq&amp;layout=compact&amp;theme=dracula)-->
 ***
 ## Tools
-![Windows](https://img.shields.io/badge/Windows%2011-2d9aff?style=flat-square&logo=windows&logoColor=ffffff) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows%2011-2d9aff?style=flat-square&logo=windows&logoColor=ffffff) ![Android 11](https://img.shields.io/badge/Android%2011-3DDC84?style=flat-square&logo=android&logoColor=ffffff) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff) ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 ## ❤️ Like
 - 🎮 Gaming!
