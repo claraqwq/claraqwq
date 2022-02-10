@@ -4,8 +4,10 @@
 ### 一个啥都学不精通的萌新 Nay~
 <!--![nacho](images/myadestes_1_nacho_agadywmaatzvsfy.png)-->
  <img src="images/myadestes_1_nacho_agadywmaatzvsfy.png" width="200" height="200" alt="nacho" align="center" />
- 
-### [Blog][1]
+
+<a href="https://blog.claraqwq.com/" title="Clara的小窝~" style="width:100px; haight:32px; display:block; padding:5px 10px; margin-top: 15px; color:#fff; background-color:#d26980; text-align: center; font-size:18px; border-radius:4px; border:2px solid #a5d5f2;     text-decoration:none;
+">👉Blog</a>
+
 ***
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="445" alt="github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=claraqwq&bg_color=45,f8dada,F3AEBA&title_color=247bcb&text_color=247bcb&show_icons=true&locale=cn"/></a><br>
