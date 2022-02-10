@@ -5,8 +5,7 @@
 <!--![nacho](images/myadestes_1_nacho_agadywmaatzvsfy.png)-->
  <img src="images/myadestes_1_nacho_agadywmaatzvsfy.png" width="200" height="200" alt="nacho" align="center" />
 
-<a href="https://blog.claraqwq.com/" title="Clara的小窝~" style="width:100px; haight:32px; display:block; padding:5px 10px; margin-top: 15px; color:#fff; background-color:#d26980; text-align: center; font-size:18px; border-radius:4px; border:2px solid #a5d5f2;     text-decoration:none;
-">👉Blog</a>
+## [👉Blog][1]
 
 ***
 
