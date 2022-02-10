@@ -9,7 +9,11 @@
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=claraqwq&bg_color=45,fff,899ec7&title_color=247bcb&text_color=247bcb&show_icons=true&locale=cn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claraqwq&bg_color=45,fff,899ec7&title_color=247bcb&text_color=247bcb&show_icons=true&locale=cn&layout=default)
+<!--![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=claraqwq&amp;layout=compact&amp;theme=dracula)-->
 ***
+## Tools
+![Windows](https://img.shields.io/badge/Windows%2011-2d9aff?style=flat-square&logo=windows)![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=Archlinux&logoColor=ffffff)
+
 ## ❤️ Like
 - 🎮 Gaming!
 - 👘 ACG
