@@ -20,7 +20,7 @@
 - 🎮 Gaming!
 - 👘 ACG
 - 🎧 Music
-- 😺 Cat
+- 😺 Cat and Animal ears
 - 🛠️ Write bugs
 - 💤 Sleep
 - 📋 Ctrl C
