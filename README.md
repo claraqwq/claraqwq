@@ -1,7 +1,7 @@
 > # "Hello World"
 
-### A cute noob who can't learn anything.
-### 一个啥都学不精通的萌新 Nay~
+> ### A cute noob who can't learn anything.
+> ### 一个啥都学不精通的萌新 Nay~
 
  <img src="images/myadestes_1_nacho_agadywmaatzvsfy.png" width="200" height="200" alt="nacho" align="center" />
 
