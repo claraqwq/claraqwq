@@ -9,9 +9,11 @@
 
 ***
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="445" alt="github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=claraqwq&bg_color=45,f8dada,F3AEBA&title_color=247bcb&text_color=247bcb&show_icons=true&locale=cn"/></a><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraqwq&bg_color=45,f8dada,F3AEBA&title_color=247bcb&text_color=247bcb&show_icons=true&locale=cn&layout=default&card_width=445"/></a>
+</p>
 
 > ## ☕ Tools
 [![Windows](https://img.shields.io/badge/Windows%2011-2d9aff?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/) [![Android 11](https://img.shields.io/badge/Android%2011-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/) [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org/)
